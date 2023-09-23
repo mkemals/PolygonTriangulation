@@ -1,3 +1,8 @@
+# **************************************************************************
+# Rastgele poligon üretir
+#
+# Mustafa Kemal Sürmeneli, 2021
+# **************************************************************************
 import math
 import random
 from typing import List
